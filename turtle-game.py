@@ -8,6 +8,6 @@ def square(length, angle):
 		t.forward(length)
 		t.right(angle)
 	
-for i in range(100):
+for i in range(10000):
 	square(100, 90)
 	t.right(11)
