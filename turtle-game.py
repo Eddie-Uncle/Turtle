@@ -10,4 +10,4 @@ def square(length, angle):
 	
 for i in range(10000):
 	square(100, 90)
-	t.right(11)
+	t.right(15)
